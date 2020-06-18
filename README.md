@@ -1,8 +1,7 @@
 # Hopping Mad
 A 2D platforming game created for a group project at the University of Utah.
 
-Class: FILM 3710 Fall 2017 Traditional Game Development
-
+Class: FILM 3710 Fall 2017 Traditional Game Development</br>
 Instructor: Matt Anderson
 
 <img src="https://raw.githubusercontent.com/MagusConjurer/hopping-mad/master/images/menu.png" alt="Main Menu Image" width="600px">
@@ -15,9 +14,9 @@ Our team, Mopping Dad, set out to make a 2D platforming game. In it, the ninja f
 
 ### Team Mopping Dad
 
-Aaron Smurthwaite (Textures and Music)
-Ben Hammond (Animations)
-Cameron Davis (Programming)
+Aaron Smurthwaite (Textures and Music) </br>
+Ben Hammond (Animations)</br>
+Cameron Davis (Programming)</br>
 Will Boyce (Models and Textures)
 
 ### Images
