@@ -21,6 +21,13 @@ Ben Hammond (Animations)</br>
 Cameron Davis (Programming)</br>
 Will Boyce (Models and Textures)
 
+### How to Run
+
+1. Select a version (Prototype, Alpha, Alpha 2, or Beta)
+1. Click on the zip file
+1. Download and extract the program
+1. Run the .exe file and start the game
+
 ### Images
 
 ##### Protoype Gameplay
