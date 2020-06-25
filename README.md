@@ -4,7 +4,7 @@ A 2D platforming game created for a group project at the University of Utah.
 Class: FILM 3710 Fall 2017 Traditional Game Development</br>
 Instructor: Matt Anderson
 
-<img src="https://raw.githubusercontent.com/MagusConjurer/hopping-mad/master/images/menu.png" alt="Main Menu Image" width="600px">
+<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/menu.png" alt="Main Menu Image" width="600px">
 
 ### Purpose
 
@@ -31,18 +31,18 @@ Will Boyce (Models and Textures)
 ### Images
 
 ##### Protoype Gameplay
-<img src="https://raw.githubusercontent.com/MagusConjurer/hopping-mad/master/images/prototype.png" alt="Prototype Image" width="600px">
+<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/prototype.png" alt="Prototype Image" width="600px">
 
 ##### Alpha Gameplay
-<img src="https://raw.githubusercontent.com/MagusConjurer/hopping-mad/master/images/alpha.png" alt="Alpha Image" width="600px">
+<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/alpha.png" alt="Alpha Image" width="600px">
 
 ##### Beta Gameplay
-<img src="https://raw.githubusercontent.com/MagusConjurer/hopping-mad/master/images/beta.png" alt="Beta Image" width="600px">
+<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/beta.png" alt="Beta Image" width="600px">
 
 ### Controls
 - Movement 
-    - Move with A & D or â† and â†’
-    - Jump with W, â†‘ or Space
+    - Move with A & D or Left Arrow and Right Arrow
+    - Jump with W, Up Arrow or Space
 - Fighting
     - Left click for basic
     - Right click for block
