@@ -12,9 +12,11 @@ This was a class focused on the production of a 2D game within a small team, usi
 
 Our team, Mopping Dad, set out to make a 2D platforming game. In it, the ninja frog finds himself lost in a den of killer rabbits. He must survive an endless wave of attacks using basic attacks, blocks and  dodges. 
 
+We originally used Sourcetree and BitBucket to handle source control. I lost access to this after leaving University and only had these locally stored copies of the project.
+
 ### Team Mopping Dad
 
-Aaron Smurthwaite (Textures and Music) </br>
+Aaron Smurthwaite (Textures and Music)</br>
 Ben Hammond (Animations)</br>
 Cameron Davis (Programming)</br>
 Will Boyce (Models and Textures)
