@@ -1,5 +1,5 @@
 # Hopping Mad
-A 2D platforming game created for a group project at the University of Utah.
+A Unity 2D platforming game created during a traditional game development course at the University of Utah.
 
 Class: FILM 3710 Fall 2017 Traditional Game Development</br>
 Instructor: Matt Anderson
