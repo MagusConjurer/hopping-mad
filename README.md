@@ -4,7 +4,8 @@ A Unity 2D platforming game created during a traditional game development course
 Class: FILM 3710 Fall 2017 Traditional Game Development</br>
 Instructor: Matt Anderson
 
-<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/menu.png" alt="Main Menu Image" width="600px">
+### Demo Video
+[<img src="https://media.githubusercontent.com/media/MagusConjurer/hopping-mad/master/images/menu.png" alt="Main Menu Image" width="600px">](https://www.youtube.com/embed/t4hBjlMeNVs)
 
 ### Purpose
 
